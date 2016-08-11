@@ -1,4 +1,4 @@
-# i2it
+# it2i
 
 Replace latex italics with html italics.
 
