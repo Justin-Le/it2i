@@ -2,19 +2,19 @@
 
 Replace latex italics with html italics.
 
-## Example
+### Example
 
 Input:  \textit{string}
 
 Output: `<`i`>`string`<`/i`>`
 
-## Note
+### Note
 
 Only works when no other curly braces 
 
 appear inside \textit{}.
 
-## Usage 
+### Usage 
 
 python it2i.py [input .tex file] [output .html file]
 
