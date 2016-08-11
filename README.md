@@ -12,8 +12,9 @@ Output: &lt;i&gt;string&lt;\i&gt;
 
 ### Note
 
-Only works when no other curly braces appear inside \textit{}.
+* Only works when no other curly braces appear inside \textit{}.
+* This is not a converter from Latex to HTML. It replaces italics and nothing else.
 
 ### Usage 
 
-`python it2i.py [input .tex file] [output .html file]`
+`python it2i.py [path to input text file] [path to output text file]`
